@@ -1,4 +1,4 @@
 To install, run
 ```shell
-run npm i @wevops/design-library
+npm i @wevops/design-library
 ```
