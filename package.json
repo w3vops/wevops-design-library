@@ -15,6 +15,14 @@
     "design",
     "library"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3vops/wevops-design-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/w3vops/wevops-design-library/issues"
+  },
+  "homepage": "https://github.com/w3vops/wevops-design-library#readme",
   "author": "Wevops",
   "license": "MIT",
   "devDependencies": {
